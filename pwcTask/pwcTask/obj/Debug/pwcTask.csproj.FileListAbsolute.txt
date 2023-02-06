@@ -1,0 +1,10 @@
+C:\Users\Gourav Kumar\source\repos\pwcTask\pwcTask\bin\Debug\pwcTask.exe.config
+C:\Users\Gourav Kumar\source\repos\pwcTask\pwcTask\bin\Debug\pwcTask.exe
+C:\Users\Gourav Kumar\source\repos\pwcTask\pwcTask\bin\Debug\pwcTask.pdb
+C:\Users\Gourav Kumar\source\repos\pwcTask\pwcTask\obj\Debug\pwcTask.csproj.AssemblyReference.cache
+C:\Users\Gourav Kumar\source\repos\pwcTask\pwcTask\obj\Debug\pwcTask.csproj.CoreCompileInputs.cache
+C:\Users\Gourav Kumar\source\repos\pwcTask\pwcTask\obj\Debug\pwcTask.exe
+C:\Users\Gourav Kumar\source\repos\pwcTask\pwcTask\obj\Debug\pwcTask.pdb
+C:\Users\Gourav Kumar\source\repos\pwcTask\pwcTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gourav Kumar\source\repos\pwcTask\pwcTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gourav Kumar\source\repos\pwcTask\pwcTask\obj\Debug\pwcTask.csproj.CopyComplete
